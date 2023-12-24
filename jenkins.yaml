@@ -59,8 +59,6 @@ globalCredentialsConfiguration:
     providerFilter: "none"
     typeFilter: "none"
 appearance:
-  prism:
-    theme: PRISM
   themeManager:
     disableUserThemes: false
      theme: "darkSystem"
